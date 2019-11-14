@@ -51,8 +51,7 @@ Past refget maintainers include Matt Laird.
 
 ## Updating the specifications
 
-Minor editorial fixes where there is no likelihood of controversy may be done directly on the **master** branch.
-Larger changes should be proposed as pull requests so that they can be discussed and refined.
+Changes should be proposed as pull requests so that they can be discussed and refined.
 (Even those with write access to the **samtools/hts-specs** repository should in general create their pull request branches within their own **hts-specs** forks.
 This way when the main repository is forked again, the new fork is created with a minimum of extraneous volatile branches.)
 
